@@ -1,6 +1,6 @@
 # Ping Monitor – Cron-based Host Availability Checker
 
-A lightweight Bash script that pings multiple hosts (Google, localhost, and user-defined IPs) on a schedule using `cron`.  
+A lightweight Bash script that pings multiple hosts (Google, and user-defined IPs) on a schedule using `cron`.  
 It logs results and sends email alerts if any target becomes unreachable.
 
 ---
