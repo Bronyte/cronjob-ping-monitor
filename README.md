@@ -15,7 +15,7 @@ It logs results and sends email alerts if any target becomes unreachable.
 
 ## 📂 Project Structure
 ```
-ping-monitor/
+cronjob-ping-monitor/
 ├── ping_check.sh   # Main script
 └── README.md       # Documentation
 ```
